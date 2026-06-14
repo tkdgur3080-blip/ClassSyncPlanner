@@ -231,5 +231,5 @@ ClassSync Planner를 사용하면 학생이 여러 과목의 강의 페이지를
 ## 소개 영상
 
 ```markdown
-[ClassSync Planner 소개 영상 보기](영상 링크)
+[![ClassSync Planner 소개 영상](https://img.youtube.com/vi/gsvW7iUQN_8/0.jpg)](https://youtu.be/gsvW7iUQN_8)
 ```
